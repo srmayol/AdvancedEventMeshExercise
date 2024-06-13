@@ -51,7 +51,7 @@ So, let's open up the broker UI's `Try-Me` tab next.
 ![AEM Broker Try-Me](images/ex3-4.png)
 
 6. Open the connection details (">" next to "Connect" button). 
-Here you can paste the connection details copied in step 3.
+Here you can paste the connection details copied in step 3. Press the "Connect" button
 
 ![AEM Broker Connect](images/ex3-5.png)
 
