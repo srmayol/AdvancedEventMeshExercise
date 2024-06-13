@@ -54,10 +54,10 @@ SAP Integration Suite, advanced event mesh
 
 - [Exercise 1 - Explore SAP S/4HANA Integration Suite, advanced event mesh](exercises/ex1/)
 
-    - [Exercise 1.1 - Log into Advanced Event Mesh and Explore it](https://github.com/SAP-samples/teched2023-IN265/tree/main/exercises/ex1#exercise-11---log-into-advanced-event-mesh-and-explore-it)
-    - [Exercise 1.2 - Create a Queue in Advanced Event Mesh ](https://github.com/SAP-samples/teched2023-IN265/tree/main/exercises/ex1#exercise-12---create-a-queue-in-advanced-event-mesh)
-    - [Exercise 1.3 - Create a Subscription in Advanced Event Mesh](https://github.com/SAP-samples/teched2023-IN265/tree/main/exercises/ex1#exercise-13---create-a-queue-subscription-in-advanced-event-mesh)
-    - [Exercise 1.4 - Send an event from the Try Me! Tool to your Topic](https://github.com/SAP-samples/teched2023-IN265/tree/main/exercises/ex1#exercise-14---send-an-event-from-the-try-me-tool-to-your-topic)
+    - [Exercise 1.1 - Log into Advanced Event Mesh and Explore it](exercises/ex1#exercise-11---log-into-advanced-event-mesh-and-explore-it)
+    - [Exercise 1.2 - Create a Queue in Advanced Event Mesh ](exercises/ex1#exercise-12---create-a-queue-in-advanced-event-mesh)
+    - [Exercise 1.3 - Create a Subscription in Advanced Event Mesh](exercises/ex1#exercise-13---create-a-queue-subscription-in-advanced-event-mesh)
+    - [Exercise 1.4 - Send an event from the Try Me! Tool to your Topic](exercises/ex1#exercise-14---send-an-event-from-the-try-me-tool-to-your-topic)
 
 - [Exercise 2 - Topic Hierarchies](exercises/ex2/)
 
@@ -66,13 +66,13 @@ SAP Integration Suite, advanced event mesh
 
 - [Exercise 3 - Persistent and Non-Persistent Quality of Service](exercises/ex3/)
 
-    - [Exercise 3.1 - Learn about Persistency and QoS](https://github.com/SAP-samples/teched2023-IN265/tree/main/exercises/ex3#exercise-31-learn-about-delivery-modes-persistency-and-quality-of-service)
-    - [Exercise 3.2 - Experimenting with Persistency](https://github.com/SAP-samples/teched2023-IN265/tree/main/exercises/ex3#experimenting-with-persistency)
+    - [Exercise 3.1 - Learn about Persistency and QoS](exercises/ex3#exercise-31-learn-about-delivery-modes-persistency-and-quality-of-service)
+    - [Exercise 3.2 - Experimenting with Persistency](exercises/ex3#experimenting-with-persistency)
 
 - [Exercise 4 - Event Replay](exercises/ex4/)
 
-    - [Exercise 4.1 - Learn about Replay](https://github.com/SAP-samples/teched2023-IN265/blob/main/exercises/ex4/README.md#exercise-41-learn-about)
-    - [Exercise 4.2 - Experimenting with Replay](https://github.com/SAP-samples/teched2023-IN265/blob/main/exercises/ex4/README.md#exercise-42-experimenting-with-replay)
+    - [Exercise 4.1 - Learn about Replay](exercises/ex4/README.md#exercise-41-learn-about)
+    - [Exercise 4.2 - Experimenting with Replay](exercises/ex4/README.md#exercise-42-experimenting-with-replay)
 
 
 ## User Data and Password
