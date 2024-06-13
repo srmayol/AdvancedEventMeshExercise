@@ -123,6 +123,8 @@ HINT: Please note that this topic is very simple to facilitate this exercise. In
 ![Pic 17](../../images/ex1-17.png)  
 
 17. Click on Connect in the Publisher Section
+>Important: If your browser asks to select a certificate for authentication, press "Cancel" otherwise the connection will fail!
+![Pic 18](../../images/ex1-17-2.png)  
 
 ![Pic 18](../../images/ex1-18.png)  
 
