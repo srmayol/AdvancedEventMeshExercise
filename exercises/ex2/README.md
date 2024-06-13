@@ -89,7 +89,7 @@ You should receive the message.
 
 ![Pic 9](../../images/ex2-9.png)
 
-- Subscribe to animals/vertebrates/warm-blooded/asteriks/asteriks
+- Subscribe to animals/vertebrates/warm-blooded/\*/\*
 
 ![Pic 10](../../images/ex2-10.png)
 
