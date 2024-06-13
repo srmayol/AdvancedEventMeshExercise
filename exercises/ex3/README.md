@@ -55,6 +55,9 @@ Here you can paste the connection details copied in step 3.
 
 ![AEM Broker Connect](images/ex3-5.png)
 
+>Your browser may ask to select a certificate for authentication. Press "Cancel" to close the dialog, otherwise you will get a connection error. If you accidentially selected a certificate, please restart your browser to make sure the pop-up will show again.
+>![AEM Broker Connect](images/ex3-6-2.png)
+
 7. Your publisher should now be Connected.
 ![Publisher connected](images/ex3-6.png)
 
