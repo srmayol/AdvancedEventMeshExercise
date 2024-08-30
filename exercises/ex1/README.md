@@ -118,37 +118,51 @@ HINT: Please note that this topic is very simple to facilitate this exercise. In
 
 ## Exercise 1.4 - Send an event from the Try Me! tool to your topic
 
-16. Keep your current browser tab open and go back to the other/main tab and click on Try Me!
+16. Switch to the **"Try Me!"** Section in the menu on the right.
 
-![Pic 17](../../images/ex1-17.png)  
+17. Press the **"expand"-Icon** to show the connection details. Please note, that the properties have to be adjusted, so the connection will not work. We will add them in the next steps.
 
-17. Click on Connect in the Publisher Section
+![image](https://github.com/user-attachments/assets/f3888a68-64c9-4fda-8003-b4a7b4a18ff2)
+
+18. Keep your current browser tab open and **go back to the other/main tab** and click on **"Connect"**. Select **View by "Protocol"**.
+
+![image](https://github.com/user-attachments/assets/99758623-d373-4270-93ba-258b18a63c07)
+
+19. Open the **"Solace Web Messaging"** entry and select **"Solace JavaScript API"**. Now a Pop-up on the right shows use the connection details.
+20. Copy these details into the according properties of the "Try Me!" tool opened in step 14. Overwrite existing values.
+![image](https://github.com/user-attachments/assets/cb86bcc7-7dc7-456c-b9e2-16ff53870d85)
+
+21. Click on Connect in the Publisher Section
 >Important: If your browser asks to select a certificate for authentication, press "Cancel" otherwise the connection will fail! If you accidentially clicked on a certificate, please restart your browser to show the dialog again.
-![Pic 18](../../images/ex1-17-2.png)  
 
-![Pic 18](../../images/ex1-18.png)  
 
-18. Enter your topic
+![image](https://github.com/user-attachments/assets/f16d3830-6144-4aee-a28d-1da0a57a8b13)
 
-![Pic 19](../../images/ex1-19.png)  
 
-19. Click Publish to send your message (most likely Hello World!) to your topic
 
-20. You should see 1 message published in the Publish Status
+22. Enter your topic
+    
+![image](https://github.com/user-attachments/assets/246c0a30-2913-4c5e-9b84-51c2d6583a2d)
 
-![Pic 20](../../images/ex1-20.png)  
 
-21. Switch back to the other tab / the broker level tab and go to your queue and click on Summary
+24. Click Publish to send your message (most likely Hello World!) to your topic
+
+25. You should see 1 message published in the Publish Status
+
+![image](https://github.com/user-attachments/assets/0c580931-a436-4102-8ad9-ff73ab632182)
+
+
+25. Switch back to the other tab / the broker level tab and go to your queue and click on Summary
 
 ![Pic 21](../../images/ex1-21.png)  
 
-22. You should see 1 Message Queued
+26. You should see 1 Message Queued
 
 ![Pic 22](../../images/ex1-22.png)  
 
 You have sent a message to a topic, and via the subscription this message has been stored in your queue.
 
-23. You can leave it like this or you can play the same game a little longer: go back to the Try Me! tool and just click publish, and see in the other tab how the count of messages gets increased (don't forget to refresh the page).
+27. You can leave it like this or you can play the same game a little longer: go back to the Try Me! tool and just click publish, and see in the other tab how the count of messages gets increased (don't forget to refresh the page).
 
 ![Pic 23](../../images/ex1-23.png)  
 
