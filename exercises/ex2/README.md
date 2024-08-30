@@ -41,17 +41,17 @@ Now that we have learned about topic hierarchies and have a great tool like Try 
 
 For that, we will use animal topics ...
 
-1. Go to Try Me! - go to the cluster manager, click on your broker and then on Try Me!
+1. Go to "Try Me!-Tool" used in exercise 1.
 
-![Pic 3](../../images/ex2-3.png)
-
-2. In a next step connect both Publisher and Subscriber
+2. In a next step connect both Publisher and Subscriber.
 
 Click on the connect buttons. Potentially you might still be connected from the last exercise.
 
+
 Clean up your Subscribed Topics so that you are not subscribing to any topics any more.
 
-![Pic 4](../../images/ex2-4.png)
+![image](https://github.com/user-attachments/assets/1ac8af54-7f84-4bae-b3b2-651fc91be20a)
+
 
 3. Check out the hierarchical categorization of animals below
 
